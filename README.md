@@ -1,11 +1,13 @@
-# Vapor Examples
+# Vapor-Examples
 
-A collection of vapor examples. The base of these examples started with the
-example from [Vapor Example](https://github.com/vapor/example)
+A collection of vapor examples and hopefully best practices for creating vapor
+based solutions using Swift. The base of these examples started with the
+example [Vapor Example](https://github.com/vapor/example).
 
 ## 📖 Documentation
 
-Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for instructions on how to use this package.
+Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for
+more information.
 
 ## 💧 Community
 
@@ -38,3 +40,6 @@ vapor run serve
 ```
 
 ## Deployment
+
+There are many options to deploying vapor based projects. One such option that
+uses a Vagrant-Ansible-Virtualbox approach can be found [here](https://github.com/spotted-dog-photo/vapor-vagrant.git).
